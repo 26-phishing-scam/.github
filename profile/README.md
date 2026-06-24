@@ -1,10 +1,13 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F9A826,100:FF7A00&text=PEACE-NYANG&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Phishing%20%26%20Scam%20Prevention%20Service&descSize=18&descAlignY=60"/>
+<img src="https://raw.githubusercontent.com/26-phishing-scam/.github/main/profile/assets/peace-logo.png" width="180"/>
+
+<br>
+</div>
 
 <h1>🐱 피스냥 | PEACE-NYANG</h1>
 
-<h3>피싱·스캠 예방을 위한 브라우저 행동 기반 보안 서비스</h3>
+<h3>브라우저 행동 분석 + AI 기반 피싱 URL 탐지</h3>
 
 <p>
 사용자의 브라우저 행동 이벤트를 수집하고 분석하여<br>
@@ -43,7 +46,7 @@
 
 <div align="center">
 
-<a href="./docs/피스냥_발표자료.pdf">
+<a href="https://github.com/26-phishing-scam/.github/blob/main/profile/docs/피스냥_발표자료.pdf">
   <img src="https://img.shields.io/badge/Presentation-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
@@ -225,15 +228,24 @@ Chrome Extension
 FastAPI REST API
 </td>
 
-<td align="center" width="33%">
-<b>Storage</b>
+<td align="center" width="25%">
+<b>AI Server</b>
 <br><br>
-<img src="https://img.shields.io/badge/In--Memory-Storage-orange?style=for-the-badge"/>
+
+<img src="https://camo.githubusercontent.com/e86689bd81b55698b150eccfcf6efc6f52cf07b7ea91560ec4177a30ca7ee3f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41492d5363696b69745f5f4c6561726e2d6f72616e67653f6c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465"/>
+
 <br>
-Runtime Memory Store
+
+Random Forest
 </td>
-</tr>
-</table>
+
+<td align="center" width="40%">
+<b>Data</b>
+<br><br>
+<img src="https://img.shields.io/badge/Whois-Analysis-blue?style=for-the-badge"/>
+<br>
+Whitelist/Blacklist
+</td>
 
 ---
 
