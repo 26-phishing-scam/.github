@@ -316,13 +316,13 @@ Whitelist/Blacklist
 </td>
 
 <td align="center" width="33%">
-<img src="https://github.com/sanghyuk.png" width="120"/>
+<img src="https://github.com/sanghyxuk.png" width="120"/>
 <br/>
 <h3>표상혁</h3>
 <b>Detection Logic / AI</b>
 <br/><br/>
-<a href="https://github.com/sanghyuk">
-<img src="https://img.shields.io/badge/GitHub-sanghyuk-181717?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/sanghyxuk">
+<img src="https://img.shields.io/badge/GitHub-sanghyxuk-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
